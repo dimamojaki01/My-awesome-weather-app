@@ -3,61 +3,16 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Weather application</title>
-  </head>
-  <body>
-    <body>
-    <header>
-      <form>
-        <input type="search" placeholder="Enter a city.." required />
-        <input type="submit" value="Search" />
-      </form>
-    </header>
-    <main>
-      <div class="current-weather">
-        <div>
-          <h1>Paris</h1>
-          <p>
-            Saturday 15:32, moderate rain <br />
-            Humidity: <strong>87%</strong>, Wind: <strong>7.2km/h</strong>
-          </p>
-        </div>
-        <div>☀️ 14°C</div>
-      </div>
-      <div class="forecast-weather">
-        <ul>
-          <li>
-            Sun 🌤️
-            <br />
-            <strong>14°C</strong> - 18°C
-          </li>
-          <li>
-            Mon 🌤️
-            <br />
-            <strong>14°C</strong> - 18°C
-          </li>
-          <li>
-            Tue 🌤️
-            <br />
-            <strong>14°C</strong> - 18°C
-          </li>
-          <li>
-            Wed 🌤️
-            <br />
-            <strong>14°C</strong> - 18°C
-          </li>
-          <li>
-            Thu 🌤️
-            <br />
-            <strong>14°C</strong> - 18°C
-          </li>
-        </ul>
-      </div>
-    </main>
-    <footer>
-      <p>
-    coded with❤️ by
-    <a href="dimamojaki01@gmail.com/" target="_blank">Dimakatso</a>
-    </p>
-  </footer>
+    <title>Document</title>
+
+<style>
+h1{
+  text-align: center;
+  color: blue
+}
+</style>
+</head>
+<body>
+  <h1> Hello Git</h1>
+</body>
 </html>
